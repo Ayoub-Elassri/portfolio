@@ -74,11 +74,18 @@ const Hero = () => {
   const typedRole = useTyping(roles, i18n.language);
 
   /* fade-in variants (stable ref — no deps) */
-  const fadeUp = useMemo(() => (delay = 0) => ({
+ const fadeUp = useMemo(
+  () => (delay = 0) => ({
     initial: { opacity: 0, y: 28 },
     animate: { opacity: 1, y: 0 },
-    transition: { duration: 0.6, delay, ease: [0.22, 1, 0.36, 1] },
-  }), []);
+    transition: {
+      duration: 0.6,
+      delay,
+      ease: "easeOut" as const,
+    },
+  }),
+  []
+);
 
   const ArrowIcon = isRTL ? ArrowLeft : ArrowRight;
 
@@ -281,8 +288,7 @@ const Hero = () => {
           <motion.div
             initial={{ opacity: 0, x: isRTL ? -30 : 30, scale: 0.96 }}
             animate={{ opacity: 1, x: 0, scale: 1 }}
-            transition={{ duration: 0.7, ease: [0.22, 1, 0.36, 1] }}
-            className="w-full lg:w-[44%] flex justify-center lg:justify-end"
+transition={{ duration: 0.7, ease: "easeOut" }}            className="w-full lg:w-[44%] flex justify-center lg:justify-end"
           >
             <div className="relative w-64 h-64 sm:w-80 sm:h-80 md:w-[22rem] md:h-[22rem] lg:w-[420px] lg:h-[420px]">
 
