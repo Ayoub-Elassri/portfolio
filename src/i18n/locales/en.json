@@ -1,0 +1,113 @@
+{
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "status": "Available for Work",
+    "headline1": "I build modern",
+    "headlineHighlight": "web applications",
+    "headline2": "with clean code.",
+    "intro": "Hi, I'm",
+    "name": "Ayoub Elassri",
+    "introText": "— a Full Stack Web Developer from Morocco specialized in",
+    "introHighlight": "Laravel, React.js, PHP and MySQL.",
+    "introEnd": "I develop fast, scalable and user-friendly web applications.",
+    "viewWork": "View Projects",
+    "contactMe": "Contact Me",
+    "downloadCv": "Download CV",
+    "scroll": "Scroll",
+    "stack": "Tech Stack",
+    "stackItems": "Laravel · React · PHP · MySQL",
+    "morocco": "Morocco",
+    "fullStackDev": "Full Stack Developer",
+    "roles": [
+      "Full Stack Developer",
+      "Laravel Developer",
+      "React.js Developer",
+      "PHP Developer",
+      "Frontend & Backend Developer"
+    ]
+  },
+  "about": {
+    "label": "About Me",
+    "title": "Who I Am",
+    "p1": "I'm Ayoub Elassri, a Full Stack Web Developer from Morocco specialized in Laravel, React.js, PHP and MySQL. I build modern web applications with clean architecture and high performance.",
+    "p2": "During my training at OFPPT, I completed several practical projects including Tourist in Fes, a tourism booking platform, a Car Rental Management System, and this personal portfolio.",
+    "p3": "I enjoy writing clean, maintainable code and continuously improving my technical skills while contributing to real-world software projects."
+  },
+  "skills": {
+    "label": "Expertise",
+    "title": "Technical Skills",
+    "description": "I work with modern frontend and backend technologies to build secure, scalable and high-performance web applications with a focus on user experience and clean code.",
+    "categories": {
+      "Frontend": "Frontend",
+      "Backend": "Backend",
+      "Databases": "Databases",
+      "Tools & Principles": "Tools & Technologies"
+    }
+  },
+  "education": {
+    "label": "Education",
+    "title": "Education & Training",
+    "items": [
+      {
+        "title": "Specialized Technician Diploma in Digital Development",
+        "institution": "ISTA / OFPPT",
+        "description": "Professional training in Full Stack Web Development using Laravel, React.js, PHP and MySQL."
+      },
+      {
+        "title": "Baccalaureate",
+        "institution": "Morocco",
+        "description": "Completed secondary education before pursuing studies in software development."
+      }
+    ]
+  },
+  "projects": {
+    "label": "Portfolio",
+    "title": "Featured Projects",
+    "viewAll": "View All Projects",
+    "noPreview": "No Preview",
+    "filters": {
+      "All": "All",
+      "Frontend": "Frontend",
+      "Backend": "Backend",
+      "Full Stack": "Full Stack"
+    },
+    "items": [
+      {
+        "title": "Tourist in Fes",
+        "description": "A full-stack tourism booking platform built with Laravel and React.js for discovering and booking tourist activities in Fes."
+      },
+      {
+        "title": "Car Rental Management System",
+        "description": "A web application for managing car rentals, customers, reservations and administration."
+      },
+      {
+        "title": "Personal Portfolio",
+        "description": "My personal portfolio showcasing my skills, projects and professional experience."
+      }
+    ]
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Let's Work Together",
+    "description": "If you're looking for a motivated Full Stack Web Developer, feel free to contact me.",
+    "emailMe": "Send Email",
+    "sendMessage": "Send Message",
+    "connectProfessionally": "LinkedIn",
+    "checkMyCode": "GitHub",
+    "quickChat": "WhatsApp",
+    "chatDirectly": "Chat Now",
+    "footer": "Thank you for visiting my portfolio."
+  },
+  "footer": {
+    "rights": "© Ayoub Elassri. All rights reserved."
+  },
+  "theme": {
+    "switchToLight": "Switch to Light Mode",
+    "switchToDark": "Switch to Dark Mode"
+  }
+}

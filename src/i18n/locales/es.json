@@ -1,0 +1,118 @@
+{
+  "nav": {
+    "about": "Sobre mí",
+    "skills": "Habilidades",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "status": "Disponible para nuevas oportunidades",
+    "headline1": "Desarrollo",
+    "headlineHighlight": "aplicaciones web",
+    "headline2": "modernas y escalables.",
+    "intro": "Hola, soy",
+    "name": "Ayoub Elassri",
+    "introText": "— un desarrollador Full Stack de Marruecos especializado en",
+    "introHighlight": "Laravel, React.js, PHP y MySQL.",
+    "introEnd": "Creo aplicaciones rápidas, seguras y con una excelente experiencia de usuario.",
+    "viewWork": "Ver Proyectos",
+    "contactMe": "Contáctame",
+    "downloadCv": "Descargar CV",
+    "scroll": "Desplazar",
+    "stack": "Tecnologías",
+    "stackItems": "Laravel · React.js · PHP · MySQL",
+    "morocco": "Marruecos",
+    "fullStackDev": "Desarrollador Full Stack",
+    "roles": [
+      "Desarrollador Full Stack",
+      "Desarrollador Laravel",
+      "Desarrollador React",
+      "Desarrollador PHP",
+      "Desarrollador Web"
+    ]
+  },
+  "about": {
+    "label": "Sobre mí",
+    "title": "Desarrollador Full Stack de Marruecos",
+    "p1": "Soy Ayoub Elassri, desarrollador Full Stack especializado en Laravel, React.js, PHP y MySQL. Me apasiona crear aplicaciones web modernas, rápidas y seguras.",
+    "p2": "Disfruto desarrollando sitios web profesionales, APIs REST y aplicaciones escalables utilizando tecnologías modernas y código limpio.",
+    "p3": "Actualmente continúo mejorando mis habilidades y busco nuevas oportunidades para participar en proyectos reales y aportar valor a los equipos de desarrollo."
+  },
+  "skills": {
+    "label": "Habilidades",
+    "title": "Competencias Técnicas",
+    "description": "Trabajo con tecnologías modernas para desarrollar aplicaciones web completas. Tengo experiencia en frontend, backend, bases de datos, Git, GitHub y desarrollo de APIs REST.",
+    "categories": {
+      "Frontend": "Frontend",
+      "Backend": "Backend",
+      "Databases": "Bases de Datos",
+      "Tools & Principles": "Herramientas y Buenas Prácticas"
+    }
+  },
+  "education": {
+    "label": "Educación",
+    "title": "Formación Académica",
+    "items": [
+      {
+        "title": "Diploma de Técnico Especializado en Desarrollo Digital",
+        "institution": "ISTA / OFPPT",
+        "description": "Formación en desarrollo Full Stack utilizando Laravel, React.js, PHP, JavaScript y MySQL."
+      },
+      {
+        "title": "Primer Año de Desarrollo Digital",
+        "institution": "ISTA / OFPPT",
+        "description": "Aprendizaje de HTML, CSS, JavaScript, PHP y fundamentos del desarrollo web."
+      },
+      {
+        "title": "Bachillerato",
+        "institution": "Marruecos",
+        "description": "Obtención del diploma de Bachillerato."
+      }
+    ]
+  },
+  "projects": {
+    "label": "Portafolio",
+    "title": "Mis Proyectos",
+    "viewAll": "Ver todos los proyectos",
+    "noPreview": "Sin vista previa",
+    "filters": {
+      "All": "Todos",
+      "Frontend": "Frontend",
+      "Backend": "Backend",
+      "Full Stack": "Full Stack"
+    },
+    "items": [
+      {
+        "title": "Tourist in Fes",
+        "description": "Aplicación web Full Stack para descubrir y reservar actividades turísticas en la ciudad de Fez."
+      },
+      {
+        "title": "Car Rental System",
+        "description": "Sistema de alquiler de vehículos desarrollado con Laravel y MySQL para gestionar clientes, vehículos y reservas."
+      },
+      {
+        "title": "Personal Portfolio",
+        "description": "Mi portafolio personal desarrollado con React y TypeScript para presentar mis proyectos, habilidades e información profesional."
+      }
+    ]
+  },
+  "contact": {
+    "label": "Contacto",
+    "title": "Contáctame",
+    "description": "Estoy disponible para oportunidades profesionales, proyectos freelance y colaboraciones. No dudes en ponerte en contacto conmigo.",
+    "emailMe": "Enviar Email",
+    "sendMessage": "Enviar Mensaje",
+    "connectProfessionally": "LinkedIn",
+    "checkMyCode": "GitHub",
+    "quickChat": "WhatsApp",
+    "chatDirectly": "Hablar Ahora",
+    "footer": "Gracias por visitar mi portafolio."
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados."
+  },
+  "theme": {
+    "switchToLight": "Cambiar al modo claro",
+    "switchToDark": "Cambiar al modo oscuro"
+  }
+}

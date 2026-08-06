@@ -1,0 +1,113 @@
+{
+  "nav": {
+    "about": "À propos",
+    "skills": "Compétences",
+    "projects": "Projets",
+    "contact": "Contact"
+  },
+  "hero": {
+    "status": "Disponible pour travailler",
+    "headline1": "Je développe des",
+    "headlineHighlight": "applications web",
+    "headline2": "modernes.",
+    "intro": "Bonjour, je suis",
+    "name": "Ayoub Elassri",
+    "introText": "— développeur Full Stack au Maroc spécialisé en",
+    "introHighlight": "Laravel, React.js, PHP et MySQL.",
+    "introEnd": "Je développe des applications web modernes, rapides et évolutives.",
+    "viewWork": "Voir mes projets",
+    "contactMe": "Me contacter",
+    "downloadCv": "Télécharger le CV",
+    "scroll": "Défiler",
+    "stack": "Technologies",
+    "stackItems": "Laravel · React · PHP · MySQL",
+    "morocco": "Maroc",
+    "fullStackDev": "Développeur Full Stack",
+    "roles": [
+      "Développeur Full Stack",
+      "Développeur Laravel",
+      "Développeur React.js",
+      "Développeur PHP",
+      "Développeur Frontend & Backend"
+    ]
+  },
+  "about": {
+    "label": "À propos",
+    "title": "Qui suis-je ?",
+    "p1": "Je suis Ayoub Elassri, développeur Full Stack au Maroc spécialisé en Laravel, React.js, PHP et MySQL. Je conçois et développe des applications web modernes avec une architecture propre et de hautes performances.",
+    "p2": "Au cours de ma formation à l'OFPPT, j'ai réalisé plusieurs projets concrets, notamment Tourist in Fes, une plateforme de réservation d'activités touristiques, une application de gestion de location de voitures ainsi que ce portfolio personnel.",
+    "p3": "J'aime écrire un code propre et maintenable, apprendre continuellement de nouvelles technologies et participer à des projets professionnels à forte valeur ajoutée."
+  },
+  "skills": {
+    "label": "Expertise",
+    "title": "Compétences Techniques",
+    "description": "J'utilise des technologies modernes de développement web pour créer des applications sécurisées, performantes et évolutives tout en mettant l'accent sur la qualité du code et l'expérience utilisateur.",
+    "categories": {
+      "Frontend": "Frontend",
+      "Backend": "Backend",
+      "Databases": "Bases de données",
+      "Tools & Principles": "Outils & Technologies"
+    }
+  },
+  "education": {
+    "label": "Formation",
+    "title": "Études & Formation",
+    "items": [
+      {
+        "title": "Diplôme de Technicien Spécialisé en Développement Digital",
+        "institution": "ISTA / OFPPT",
+        "description": "Formation professionnelle en développement Full Stack avec Laravel, React.js, PHP et MySQL."
+      },
+      {
+        "title": "Baccalauréat",
+        "institution": "Maroc",
+        "description": "Obtention du baccalauréat avant de poursuivre des études en développement informatique."
+      }
+    ]
+  },
+  "projects": {
+    "label": "Portfolio",
+    "title": "Projets Réalisés",
+    "viewAll": "Voir tous les projets",
+    "noPreview": "Aucun aperçu",
+    "filters": {
+      "All": "Tous",
+      "Frontend": "Frontend",
+      "Backend": "Backend",
+      "Full Stack": "Full Stack"
+    },
+    "items": [
+      {
+        "title": "Tourist in Fes",
+        "description": "Plateforme web Full Stack développée avec Laravel et React.js permettant de réserver des activités touristiques à Fès."
+      },
+      {
+        "title": "Car Rental Management System",
+        "description": "Application web de gestion de location de voitures avec gestion des véhicules, des clients, des réservations et de l'administration."
+      },
+      {
+        "title": "Portfolio Personnel",
+        "description": "Mon portfolio personnel présentant mes compétences techniques, mes projets et mes informations de contact."
+      }
+    ]
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Travaillons ensemble",
+    "description": "Vous recherchez un développeur Full Stack motivé ? N'hésitez pas à me contacter pour discuter de votre projet ou d'une opportunité professionnelle.",
+    "emailMe": "Envoyer un e-mail",
+    "sendMessage": "Envoyer",
+    "connectProfessionally": "LinkedIn",
+    "checkMyCode": "GitHub",
+    "quickChat": "WhatsApp",
+    "chatDirectly": "Discuter maintenant",
+    "footer": "Merci de votre visite."
+  },
+  "footer": {
+    "rights": "© Ayoub Elassri. Tous droits réservés."
+  },
+  "theme": {
+    "switchToLight": "Passer en mode clair",
+    "switchToDark": "Passer en mode sombre"
+  }
+}
